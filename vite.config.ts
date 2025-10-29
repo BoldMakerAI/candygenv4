@@ -7,5 +7,5 @@ export default defineConfig({
   // IMPORTANT: Replace 'your-repo-name' with the actual name of your GitHub repository
   // For example, if your repo URL is https://github.com/user/my-candy-app,
   // the base should be '/my-candy-app/'
-  base: '/your-repo-name/', 
+  base: '/candygen4/', 
 })
